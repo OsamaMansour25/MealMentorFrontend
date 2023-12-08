@@ -7,7 +7,7 @@ if (window.location.hostname === 'localhost' || window.location.hostname === "12
   API_URL = "http://localhost:8080/api"
 } else{
   //Add URL to your hosted API, once you have it deployed.
-  API_URL = "https://mealmentor-backend.azurewebsites.net/api"
+  API_URL = "https://github.com/OsamaMansour25/MealMentorBackend3sem/api"
 }
 
 
